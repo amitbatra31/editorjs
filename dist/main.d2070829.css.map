@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.d2070829.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: rgba(210, 221, 233, 0.815);\n  height: 100%;\n  padding: 3em;\n  font-family: Arial, Helvetica, sans-serif;\n}\n\n#editorjs {\n  background-color: white;\n}\n"]}
